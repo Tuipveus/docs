@@ -1,4 +1,4 @@
-The Shelly 1PM is supported from Tasmota 6.5.0.10 using a template.
+The Shelly 1PM is supported from Tasmota 6.5.0.10 using a template. Shelly Plus 1PM is part of Gen 2 devices and flashing is not supported according to Shelly technical support.
 
 <img src="https://shelly.cloud/wp-content/uploads/2019/02/shelly1pm_thumb.png" width="250" align="right" />
 
